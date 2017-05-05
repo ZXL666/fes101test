@@ -1,0 +1,9 @@
+E:\CSharpProject\fes101test\fes101test\bin\Debug\fes101test.exe.config
+E:\CSharpProject\fes101test\fes101test\obj\Debug\fes101test.csprojResolveAssemblyReference.cache
+E:\CSharpProject\fes101test\fes101test\obj\Debug\fes101test.Form1.resources
+E:\CSharpProject\fes101test\fes101test\obj\Debug\fes101test.Properties.Resources.resources
+E:\CSharpProject\fes101test\fes101test\obj\Debug\fes101test.csproj.GenerateResource.Cache
+E:\CSharpProject\fes101test\fes101test\bin\Debug\fes101test.exe
+E:\CSharpProject\fes101test\fes101test\bin\Debug\fes101test.pdb
+E:\CSharpProject\fes101test\fes101test\obj\Debug\fes101test.exe
+E:\CSharpProject\fes101test\fes101test\obj\Debug\fes101test.pdb
